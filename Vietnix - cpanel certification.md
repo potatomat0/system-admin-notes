@@ -14,10 +14,6 @@ modification date: Tuesday 10th December 2024 15:57:33
 
 - [cPanel University -- Get Certified!](https://university.cpanel.net/)
 - [cPanel University -- technical courses](https://university.cpanel.net/tech-courses)
+- [register for a cPanel University accoutn](https://exams.cpanel.net/index/signup)
 _____
 
-https://host69.vietnix.vn:2083 : cPanel (for users/customers) 
-https://host69.vietnix.vn:2087 : WHM (for administrator)
-
->username: vtrainnhat
-ppassword: uKpuVgoz@5v@cbYpy82B097Uw6nw 
